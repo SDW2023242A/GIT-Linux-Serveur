@@ -1,3 +1,3 @@
 # intro_git
 
-Introduction à git
+Introduction à git Yoann
