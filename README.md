@@ -6,4 +6,6 @@
 
 [Support de cours - Serveur](Serveur.pdf)
 
-[Evaluation](Projet_devise.pdf)
+[Infos serveur SDW](Serveur_SDW.xlsx)
+
+[Evaluation GIT](Projet_devise.pdf)
