@@ -1,3 +1,5 @@
-# intro_git
+# Introduction Git
 
-Introduction à git Yoann Garance
+[Support de cours](Cours_Git.pdf)
+
+[Evaluation](Projet_devise.pdf)
